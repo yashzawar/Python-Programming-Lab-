@@ -29,3 +29,6 @@ question = input('Would you like to roll the dice [y/n]?\n')
 
 print('Good-bye!')
 
+\\yash zawar
+\\M-67
+\\11811242
