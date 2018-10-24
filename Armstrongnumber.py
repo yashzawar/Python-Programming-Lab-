@@ -20,4 +20,6 @@ else:
 
    print(num,"is not an Armstrong number")
 
-\\yash
+\\yash zawar
+\\M-67
+\\11811242
