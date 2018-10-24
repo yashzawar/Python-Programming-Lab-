@@ -7,3 +7,7 @@ def rev_string(x):
   return y
 x=input()
 print(rev_string(x))
+
+\\yash zawar
+\\M-67
+\\11811242
